@@ -1,3 +1,13 @@
+# Adding config.py file.
+api_keys.py
+
+# Adding __pycache__ folder
+__pycache__
+
+# Adding .ipynb_checkpoints folder
+.ipynb_checkpoints
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

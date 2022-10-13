@@ -29,6 +29,10 @@ This activity is broken down into two parts, WeatherPy and VacationPy.
 -   Latitude Vs. Cloudiness
 -   Latitude Vs. Wind Speed
 
+7)  The analysis of the plots above can be found in the Jupyter notebook as required.
+
+8)  The Jupyter notebook also contains the observable trends explained at the bottom.
+
 #### VacationPy
 
 1)  The csv file (cities.csv) from WeatherPy is the input for VacationPy.
